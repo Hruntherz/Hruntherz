@@ -47,6 +47,11 @@
   
   ### 📝 Random Notes
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+  <div align="center">
+  <a href="https://open.spotify.com/user/Hrunther">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hrunther&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
  <img align="right" height="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc2NTJkemlhdjN1YWdiMXVyNWZrNmdkdGlqa3JrbTVsMWs0ZTlnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
   
   ### ⭐ Status 
