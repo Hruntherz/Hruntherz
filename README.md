@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://profile-counter.glitch.me/Hruntherz/count.svg?"  />
 </div>
 
 ###
@@ -49,11 +49,6 @@ I am a development enthusiast, I like to create and know how systems such as com
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hruntherz&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
