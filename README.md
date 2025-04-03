@@ -13,6 +13,12 @@
   
   ###
   
+  <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hruntherz.Hruntherz&"  />
+</div>
+
+###
+  
   <h1 align="center">hey there 👋</h1>
   
   ###
