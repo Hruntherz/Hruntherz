@@ -47,7 +47,7 @@
   
   ### 📝 Random Notes
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3155bp237ooh4jfrmglwlub3rn7a&width={width})
+
  <img align="right" height="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc2NTJkemlhdjN1YWdiMXVyNWZrNmdkdGlqa3JrbTVsMWs0ZTlnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
   
   ### ⭐ Status 
