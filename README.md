@@ -19,7 +19,7 @@
 
 ###
   
-  <h1 align="center">hey there 👋</h1>
+  <h1 align="center">Hey there 👋</h1>
   
   ###
   # 💫 About Me:
@@ -45,9 +45,9 @@
   
   ###
   
-  ### 📝 Random Dev Quote
+  ### 📝 Random Notes
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
- <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc2NTJkemlhdjN1YWdiMXVyNWZrNmdkdGlqa3JrbTVsMWs0ZTlnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+ <img align="right" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc2NTJkemlhdjN1YWdiMXVyNWZrNmdkdGlqa3JrbTVsMWs0ZTlnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
   
   ### ⭐ Status 
   <br clear="both">
@@ -61,13 +61,6 @@
   
   ###
   
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hruntherz/Hruntherz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hruntherz/Hruntherz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hruntherz/Hruntherz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
   
   ---
   [![](https://visitcount.itsvg.in/api?id=Hruntherz&icon=4&color=11)](https://visitcount.itsvg.in)
