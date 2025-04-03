@@ -14,7 +14,7 @@
   ###
   
   <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hruntherz.Hruntherz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hruntherz.Hruntherz&left_color=grey&right_color=darkmagenta&left_text=Views"  />
 </div>
 
 ###
@@ -59,6 +59,14 @@
   </div>
   
   ###
+  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hruntherz/Hruntherz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hruntherz/Hruntherz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hruntherz/Hruntherz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
   
   ---
   [![](https://visitcount.itsvg.in/api?id=Hruntherz&icon=4&color=11)](https://visitcount.itsvg.in)
